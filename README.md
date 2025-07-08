@@ -4,6 +4,12 @@
 
 I am aiming to be a **Backend Developer** having a good **Project Management** skill
 
+## 🚀 What I Do
+- **Backend Development**: Building robust APIs and database systems
+- **Desktop Applications**: Creating user-friendly WPF applications
+- **Project Management**: Planning schedule, cost... for a smooth project flow
+- **Game Development**: Developing educational games with Unity
+
 ## 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
